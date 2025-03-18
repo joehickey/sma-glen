@@ -1,4 +1,4 @@
-baseURL = "https://www.sma-glen.com/" # Replace with your actual domain
+baseURL = "https://sma-glen.com/" # Replace with your actual domain
 languageCode = "en-us"
 title = "Sma' Glen"
 

@@ -7,18 +7,18 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Use ubuntu-latest for consistency and latest packages
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           submodules: true
-          fetch-depth: 1
+          fetch-depth: 0  # Fetch the full history for submodules
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: ubuntu-latest
+          hugo-version: 'latest'  # Or specify a version if needed
 
       - name: Build Hugo site
         run: hugo --minify
@@ -29,4 +29,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-          cname: sma-glen.com # Add this line to use your custom domain
+          cname: sma-glen.com

@@ -4,6 +4,8 @@ title: "Welcome to Sma' Glen"
 
 # Welcome to Sma' Glen Psychology
 
+### Specialist clinical psychology for children and young people
+
 - Assessments
 - Therapy
 - Consultation

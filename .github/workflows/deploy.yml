@@ -19,15 +19,10 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+          extended: true
 
       - name: Build Hugo site
         run: hugo --minify
-
-      - name: List workspace directory after Hugo build
-        run: ls -la .
-
-      - name: Clean public directory
-        run: rm -rf ./public
 
       - name: List workspace directory
         run: ls -la .

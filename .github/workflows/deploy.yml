@@ -23,6 +23,9 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
+      - name: Debug: Check Working Directory
+        run: pwd
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

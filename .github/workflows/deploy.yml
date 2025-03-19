@@ -18,14 +18,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.125.7'
+          hugo-version: 'latest'
           extended: true
 
       - name: Build Hugo site
         run: hugo --minify
-
-      - name: List workspace directory
-        run: ls -la .
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

@@ -3,7 +3,7 @@ title: "Welcome to Sma' Glen"
 draft: false
 ---
 
-# Welcome to Sma' Glen Psychology
+# Welcome to Sma' Glen Psychology!
 
 ### Specialist clinical psychology for children and young people
 

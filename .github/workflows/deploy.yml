@@ -24,6 +24,9 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
+      - name: List public directory contents
+        run: ls -al ./public
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

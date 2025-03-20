@@ -18,3 +18,9 @@ theme = "PaperMod"
         name = "Home"
         url = "/"
         weight = 10
+        
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/" # Or whatever your about page url is.
+        weight = 20

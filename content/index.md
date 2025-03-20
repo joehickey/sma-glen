@@ -1,7 +1,6 @@
 ---
 title: "Welcome to Sma' Glen"
 draft: false
-hideHomeButton: true
 ---
 
 # Welcome to Sma' Glen Psychology

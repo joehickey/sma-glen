@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Sma' Glen"
+draft: false
 ---
 
 # Welcome to Sma' Glen Psychology!

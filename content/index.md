@@ -7,7 +7,7 @@ draft: false
 
 ### Specialist clinical psychology for children and young people
 
-- Assessments
+- Assessment
 - Therapy
 - Consultation
 - Training

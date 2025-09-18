@@ -5,9 +5,9 @@ draft: false
 
 # Welcome to Sma' Glen Psychology
 
-### Specialist clinical psychology for children and young people
+### Specialist clinical psychology for children, young people and adults
 
-- Assessments
+- Assessment
 - Therapy
 - Consultation
 - Training

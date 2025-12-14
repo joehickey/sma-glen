@@ -6,3 +6,4 @@
 *.tmp
 *.log
 .hugo_build.lock
+.vs

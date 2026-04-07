@@ -1,6 +1,6 @@
 baseURL = "https://sma-glen.com/" # Replace with your actual domain
-languageCode = "en-us"
-title = "Sma' Glen"
+languageCode = "en-gb"
+title = "Sma' Glen | Specialist Clinical Psychology"
 
 theme = "PaperMod"
 

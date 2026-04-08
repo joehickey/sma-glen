@@ -3,6 +3,7 @@ languageCode = "en-gb"
 title = "Sma' Glen | Specialist Clinical Psychology"
 
 theme = "PaperMod"
+disableKinds = ["RSS"]
 
 [params]
     defaultTheme = "auto" # or dark, light

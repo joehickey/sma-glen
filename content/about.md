@@ -13,4 +13,4 @@ I am qualified to supervisor level in interpersonal psychotherapy for adolescent
 
 I completed my Doctorate in Clinical Psychology at University College London. Before this, I studied Psychology and Child Development at the University of London’s Institute of Education.
 
-I currently work in an NHS child and adolescent mental health service (CAMHS) in Tayside. Since 2006, my NHS roles have included CAMHS in East Anglia and London, inpatient settings, adult mental health and clinical research.
+I currently work in an NHS child and adolescent mental health service (CAMHS) in Scotland. Since 2006, my NHS roles have included CAMHS in East Anglia and London, inpatient settings, adult mental health and clinical research.

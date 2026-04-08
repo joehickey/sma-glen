@@ -12,9 +12,11 @@ theme = "PaperMod"
     ShowBreadCrumbs = false
     ShowCodeCopyButtons = false
 
-    [menu]
     [[menu.main]]
         identifier = "home"
         name = "Home"
         url = "/"
         weight = 10
+
+[author]
+    name = "Joe Hickey"
